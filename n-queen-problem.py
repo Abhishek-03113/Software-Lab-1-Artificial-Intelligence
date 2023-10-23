@@ -1,6 +1,8 @@
 """
 @Abhishek 
-N Queen Problem using CSP and BackTracking 
+N Queen Problem 
+
+Topic : backtracking 
 
 """
 
