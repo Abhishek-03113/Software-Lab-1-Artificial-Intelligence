@@ -5,7 +5,6 @@ N Queen Problem
 Topic : backtracking 
 
 """
-from typing import List
 
 
 class Solution:
@@ -40,9 +39,9 @@ class Solution:
         solutions = []
         backtrack(0)
         return solutions
+        
+        
+Output :
 
-
-test = Solution()
-n = int(input("Enter Size of nxn chess board : "))
-
-print(len(test.solveNQueens(n)))
+Enter Size of nxn chess board : 8
+92
